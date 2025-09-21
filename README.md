@@ -5,7 +5,7 @@
 <br>
 <h2>💻 About Me</h2>
 
-<p>👋 Hi, I'm Abdessamad Elouarrag</p>
+<p>👋 Hi, <b>I'm Abdessamad Elouarrag</b></p>
 <p>🌍 From <b>Tiznit, Morocco</b></p>
 <p>✅ Passed <b>C language</b> and can confidently use it for programming and problem-solving.</p>
 <p>📚 Currently studying <b>Full Stack Development</b>.</p>
