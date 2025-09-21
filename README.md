@@ -17,8 +17,10 @@
 <p align="center">
 </p>
 
-<p> align="left">📊 GitHub Stats: </p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
 ![](https://github-readme-stats.vercel.app/api?username=abdessamadelouarrag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
