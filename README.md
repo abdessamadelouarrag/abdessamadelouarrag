@@ -2,8 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E57F7&width=435&lines=Hello%2C+I'm+Abdessamad" alt="Typing SVG" /></a>
 </p>
 
-<br><br>
+<br>
+<h2>💻 About Me</h2>
 
+<h3>👋 Hi, I'm Abdessamad Elouarrag</h3>
 <p>🌍 From <b>Tiznit, Morocco</b></p>
 
 <p>✅ Passed <b>C language</b> and can confidently use it for programming and problem-solving.</p>
