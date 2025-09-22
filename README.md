@@ -3,6 +3,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Abdessamad" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=abdessamadelouarrag&color=lightgrey)
+  
+</p>
+
 <h2>💻 About Me</h2>
 
 <p>👋 Hi, <b>I'm Abdessamad Elouarrag</b></p>
