@@ -37,6 +37,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,discord,github,ps" />
+    <img src="https://skillicons.dev/icons?i=c,discord,ps,html" />
   </a>
 </p>
