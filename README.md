@@ -12,7 +12,6 @@
 
 <p>👋 Hi, <b>I'm Abdessamad Elouarrag</b></p>
 <p>🌍 From <b>Tiznit, Morocco</b></p>
-<p>✅ Passed <b>C language</b> and can confidently use it for programming and problem-solving.</p>
 <p>📚 Currently studying <b>Full Stack Development</b>.</p>
 <p>💡 Passionate about coding, web technologies, and continuous learning.</p>
 <p>🚀 Exploring modern tools and frameworks to become a professional developer.</p>
