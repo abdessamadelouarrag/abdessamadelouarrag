@@ -23,9 +23,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadelouarrag&theme=dark&langs_count=8)</br>
 ![](https://github-readme-stats.vercel.app/api?username=abdessamadelouarrag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadelouarrag&theme=dark&langs_count=8)
 
 </p>
 
