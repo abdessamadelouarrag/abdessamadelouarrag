@@ -28,6 +28,11 @@
 
 </p>
 
+<h3 align="left">📊 Top Langs:</h3>
+<p align="right">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadelouarrag&size_weight=0.5&count_weight=0.5)</br>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdessamad-elouarrag-721a37311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessamad-elouarrag" height="30" width="40" /></a>
