@@ -28,10 +28,7 @@
 
 </p>
 
-<h3 align="left">📊 Top Langs:</h3>
-<p align="left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadelouarrag&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadelouarrag&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
