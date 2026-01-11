@@ -5,7 +5,7 @@
 
 <p align="center">
   
-  ![](https://komarev.com/ghpvc/?username=abdessamadelouarrag&color=lightgrey&base=100)
+  ![](https://komarev.com/ghpvc/?username=abdessamadelouarrag&color=lightgrey)
 </p>
 
 <h2>💻 About Me</h2>
